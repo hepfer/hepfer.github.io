@@ -38,7 +38,9 @@
       {% if site.show_downloads %}
         <section id="downloads">
           <span class="inner">
-            <a href="{{ site.github.zip_url }}" class="zip"><em>download</em> .ZIP</a><a href="{{ site.github.tar_url }}" class="tgz"><em>download</em> .TGZ</a>
+            <a href="{{ site.menu.item1.url }}" class="zip"><em> {{ site.menu.item1.text }}</em></a>
+			<a href="{{ site.menu.item2.url }}" class="tgz"><em> {{ site.menu.item2.text }}</em></a>
+			<a href="{{ site.menu.item3.url }}" class="tgz"><em> {{ site.menu.item3.text }}</em></a>
           </span>
         </section>
       {% else %}

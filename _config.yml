@@ -2,3 +2,14 @@ theme: jekyll-theme-merlot
 title: The Hepfer Family
 description:  Decendents of George Jacob Hepfer and Mary ann Walter.
 show_downloads: true
+menu:
+  item1:
+    url: "/briefHistory"
+    text: "Brief History"
+  item2:
+    url: "/generations"
+    text: "Generations"
+  item3:
+    url: "/reunion"
+    text: "Annual Reunion"
+    
