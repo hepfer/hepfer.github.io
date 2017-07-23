@@ -3,11 +3,11 @@
 
 @import "{{ site.theme }}";
 
-span.banner-fix {
+span.menu {
     background: transparent url(../images/download-fallback-bg.png) center top no-repeat;
     display: block;
     height: 19px;
     position: absolute;
-    width: 670px;
+    width: 550px;
     top: 150px;
-)
+}
