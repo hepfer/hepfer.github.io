@@ -46,9 +46,11 @@
       {% else %}
         <div id="no-downloads">
 		  <span class="menu">
-	  		<a href="{{ site.menu.item1.url }}" class="zip"><em> {{ site.menu.item1.text }}</em></a>
-			<a href="{{ site.menu.item2.url }}" class="tgz"><em> {{ site.menu.item2.text }}</em></a>
-			<a href="{{ site.menu.item3.url }}" class="tgz"><em> {{ site.menu.item3.text }}</em></a>
+		    <span class="inner">
+				<a href="{{ site.menu.item1.url }}" class="zip"><em> {{ site.menu.item1.text }}</em></a>
+				<a href="{{ site.menu.item2.url }}" class="tgz"><em> {{ site.menu.item2.text }}</em></a>
+				<a href="{{ site.menu.item3.url }}" class="tgz"><em> {{ site.menu.item3.text }}</em></a>
+			</span>
 	      </span>
         </div>
       {% endif %}
