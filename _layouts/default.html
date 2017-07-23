@@ -45,16 +45,16 @@
         </section>
       {% else %}
         <div id="no-downloads">
-          <span class="inner">
-		    <a href="{{ site.menu.item1.url }}" class="zip"><em> {{ site.menu.item1.text }}</em></a>
-			<a href="{{ site.menu.item2.url }}" class="tgz"><em> {{ site.menu.item2.text }}</em></a>
-			<a href="{{ site.menu.item3.url }}" class="tgz"><em> {{ site.menu.item3.text }}</em></a>
-		  </span>
+          <span class="inner"></span>
         </div>
       {% endif %}
 
 
-      <span class="banner-fix"></span>
+      <span class="banner-fix">
+	  		<a href="{{ site.menu.item1.url }}" class="zip"><em> {{ site.menu.item1.text }}</em></a>
+			<a href="{{ site.menu.item2.url }}" class="tgz"><em> {{ site.menu.item2.text }}</em></a>
+			<a href="{{ site.menu.item3.url }}" class="tgz"><em> {{ site.menu.item3.text }}</em></a>
+	  </span>
 
 
       <section id="main_content">
