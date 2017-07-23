@@ -35,25 +35,17 @@
         </span>
       </header>
 
-      {% if site.show_downloads %}
-        <section id="downloads">
-          <span class="inner">
-            <a href="{{ site.menu.item1.url }}" class="zip"><em> {{ site.menu.item1.text }}</em></a>
-			<a href="{{ site.menu.item2.url }}" class="tgz"><em> {{ site.menu.item2.text }}</em></a>
-			<a href="{{ site.menu.item3.url }}" class="tgz"><em> {{ site.menu.item3.text }}</em></a>
-          </span>
-        </section>
-      {% else %}
-        <div id="no-downloads">
-		  <span class="inner">
-		    <span class="menu">
-				<a href="{{ site.menu.item1.url }}" class="zip"><em> {{ site.menu.item1.text }}</em></a> | 
-				<a href="{{ site.menu.item2.url }}" class="tgz"><em> {{ site.menu.item2.text }}</em></a> | 
-				<a href="{{ site.menu.item3.url }}" class="tgz"><em> {{ site.menu.item3.text }}</em></a> |
+		<div id="no-downloads">
+			<span class="inner">
+				<span class="menu">
+					<a href="{{ site.menu.item1.url }}"><em> {{ site.menu.item1.text }}</em></a> | 
+					<a href="{{ site.menu.item2.url }}"><em> {{ site.menu.item2.text }}</em></a> | 
+					<a href="{{ site.menu.item3.url }}"><em> {{ site.menu.item3.text }}</em></a> |
+					<a href="{{ site.menu.item4.url }}"><em> {{ site.menu.item4.text }}</em></a> |
+					<a href="{{ site.menu.item5.url }}"><em> {{ site.menu.item5.text }}</em></a>
+				</span>
 			</span>
-	      </span>
-        </div>
-      {% endif %}
+		</div>
 
       <span class="banner-fix">
 	  </span>

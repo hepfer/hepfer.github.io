@@ -4,12 +4,18 @@ description:  Decendents of George Jacob Hepfer and Mary ann Walter.
 show_downloads: false
 menu:
   item1:
+    url: "/"
+    text: "Home"
+  item2:
     url: "/briefHistory"
     text: "Brief History"
-  item2:
+  item3:
     url: "/generations"
     text: "Generations"
-  item3:
+  item4:
+    url: "/pictures"
+    text: "Pictures"
+  item5:
     url: "/reunion"
     text: "Annual Reunion"
     
