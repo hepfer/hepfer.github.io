@@ -5,8 +5,11 @@
 
 span.menu {
     display: block;
-    height: 19px;
+    height: 25px;
     position: relative;
-    top: 150px;
-	z-index: 2;
+    top: 130px;
+    text-align: center;
+	width: 450px
+    background-color: #ece4d8
+	margin: 0px 35px;
 }
