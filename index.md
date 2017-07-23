@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to the Hepfer Family website
 
-You can use the [editor on GitHub](https://github.com/hepfer/hepfer.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This site contains history and genealogical informatation of the Hepfer family.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+"Tell ye your children of it, and let your children tell their children, and their children another generation."  Joel 1:3
 
-### Markdown
+"One generation shall praise thy works to another, and shall declare their mighty acts."  Psalms 145:4
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Over the years, the late family historian and genealogist Dwane V. Norris compiled and published information in his book __"The Hepfer Family History, Germany to the U.S.A.__ in 1999 in honor of the 70th Reunion Anniversary (July 27, 1930).  This website attempts to provide some information from his publication, and also make available more recent information.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hepfer/hepfer.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
