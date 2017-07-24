@@ -10,8 +10,8 @@ menu:
     url: "/briefHistory"
     text: "Brief History"
   item3:
-    url: "/generations"
-    text: "Generations"
+    url: "/genealogy/1"
+    text: "Genealogy"
   item4:
     url: "/pictures"
     text: "Pictures"
