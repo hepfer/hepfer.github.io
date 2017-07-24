@@ -2,6 +2,6 @@
 
 ### Online Photo Albums
 
-* [Lyle and Marjorie Hepfer Photo Album](https://onedrive.live.com/?id=11F4F4E0297C3C24%21321&cid=11F4F4E0297C3C24)
-* [2016 Hepfer Family Reunion](https://onedrive.live.com/?id=11F4F4E0297C3C24%211255&cid=11F4F4E0297C3C24)
-* [2002 Family Reunion/Michael and Brooke Hepfer Vacation](https://onedrive.live.com/?id=11F4F4E0297C3C24%21506&cid=11F4F4E0297C3C24)
+* [Lyle and Marjorie Hepfer Photo Album](https://1drv.ms/f/s!ACQ8fCng9PQRgkE)
+* [2016 Hepfer Family Reunion](https://1drv.ms/f/s!AiQ8fCng9PQRiWfW8W4bCIW3E4D5)
+* [2002 Family Reunion/Michael and Brooke Hepfer Vacation](https://1drv.ms/f/s!ACQ8fCng9PQRg3o)
