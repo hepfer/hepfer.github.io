@@ -7,7 +7,7 @@ Katharina Magdalena MERK was a Lutheran by faith.  Records at the Parish Archive
 To this union, one child was born.
 
 | 11. | Georg Jakob HOPFER, Sr. 
-| --- | ---
+| --- | :---
 b. | 15 March 1804
 pb. | Kuppingen, Herrenberg, Wuerttemberg, Germany
 m. | 19 August 1834 Anna Maria WALTER
