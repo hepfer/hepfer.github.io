@@ -7,8 +7,8 @@ menu:
     url: "/"
     text: "Home"
   item2:
-    url: "/briefHistory"
-    text: "Brief History"
+    url: "/history/"
+    text: "History"
   item3:
     url: "/genealogy/1"
     text: "Genealogy"
@@ -17,5 +17,5 @@ menu:
     text: "Pictures"
   item5:
     url: "/reunion"
-    text: "Annual Reunion"
+    text: "Reunion"
     
